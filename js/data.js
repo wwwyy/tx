@@ -33,13 +33,13 @@ var data = {
 		{
 			id:4000,
 			pid:2,
-			title:"王杰",
+			title:"薛之谦",
 			type:"file"
 		},
 		{
 			id:4,
 			pid:3,
-			title:"发如雪",
+			title:"七里香",
 			type:"file"
 		},
 		{
